@@ -3,4 +3,4 @@
 --- Created by Bergi.
 --- DateTime: 28.05.2020 15:49
 ---
-print(Привет)
+print(Привепппт)
