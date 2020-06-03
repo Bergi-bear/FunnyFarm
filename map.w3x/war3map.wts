@@ -28,3 +28,375 @@ STRING 6
 Force 1
 }
 
+STRING 8
+// Units: h000 (Помидоры), Name (Name)
+{
+Помидоры
+}
+
+STRING 9
+// Units: h000 (Помидоры), Tip (Tooltip - Basic)
+{
+Посадить семена помидор
+}
+
+STRING 10
+// Units: h000 (Помидоры), Ubertip (Tooltip - Extended)
+{
+Сажает семена помидор. Из семян со временем вырастают молодые побеги и листья, плоды. Время роста: 60 сек.
+}
+
+STRING 11
+// Units: h001 (Морковь), Name (Name)
+{
+Морковь
+}
+
+STRING 12
+// Units: h001 (Морковь), Tip (Tooltip - Basic)
+{
+Посадить семена моркови
+}
+
+STRING 13
+// Units: h001 (Морковь), Ubertip (Tooltip - Extended)
+{
+Сажает семена морковки. В земле вырастает корнеплод, вырастая вверх. Время роста: 30 сек.
+}
+
+STRING 14
+// Units: h002 (Картофель), Name (Name)
+{
+Картофель
+}
+
+STRING 15
+// Units: h002 (Картофель), Tip (Tooltip - Basic)
+{
+Посадить семена картофеля
+}
+
+STRING 17
+// Units: h003 (Капуста), Name (Name)
+{
+Капуста
+}
+
+STRING 18
+// Units: h003 (Капуста), Tip (Tooltip - Basic)
+{
+Посадить семена капусты
+}
+
+STRING 19
+// Units: h003 (Капуста), Ubertip (Tooltip - Extended)
+{
+Сажает семена капусты. В земле плод увеличивается в размерах. Время роста: 70 сек.
+}
+
+STRING 20
+// Units: h004 (Пшеница), Name (Name)
+{
+Пшеница
+}
+
+STRING 21
+// Units: h004 (Пшеница), Tip (Tooltip - Basic)
+{
+Посадить семена пшеницы
+}
+
+STRING 22
+// Units: h004 (Пшеница), Ubertip (Tooltip - Extended)
+{
+Сажает семена пшеницы. Позднее вырастают колосья пшена. Время роста: 30 сек.
+}
+
+STRING 23
+// Units: h002 (Картофель), Ubertip (Tooltip - Extended)
+{
+Сажает семена картофеля. В земле вырастает корнеплод. Время роста: 45 сек.
+}
+
+STRING 24
+// Units: h005 (Кукуруза), Name (Name)
+{
+Кукуруза
+}
+
+STRING 25
+// Units: h005 (Кукуруза), Tip (Tooltip - Basic)
+{
+Посадить семена кукурузы
+}
+
+STRING 27
+// Units: h006 (Тыква), Name (Name)
+{
+Тыква
+}
+
+STRING 28
+// Units: h006 (Тыква), Tip (Tooltip - Basic)
+{
+Посадить семена тыквы
+}
+
+STRING 29
+// Units: h006 (Тыква), Ubertip (Tooltip - Extended)
+{
+Сажает семена тыквы. В земле плод увеличивается в размерах. Время роста: 90 сек.
+}
+
+STRING 30
+// Units: h007 (Ячмень), Name (Name)
+{
+Ячмень
+}
+
+STRING 31
+// Units: h007 (Ячмень), Tip (Tooltip - Basic)
+{
+Посадить семена ячменя
+}
+
+STRING 32
+// Units: h007 (Ячмень), Ubertip (Tooltip - Extended)
+{
+Сажает семена ячменя. Время роста: 45 сек.
+}
+
+STRING 33
+// Units: h008 (Гречиха), Name (Name)
+{
+Гречиха
+}
+
+STRING 34
+// Units: h008 (Гречиха), Tip (Tooltip - Basic)
+{
+Посадить семена гречки
+}
+
+STRING 35
+// Units: h008 (Гречиха), Ubertip (Tooltip - Extended)
+{
+Сажает семена гречихи. Время роста: 45 сек.
+}
+
+STRING 36
+// Units: h009 (Овес), Name (Name)
+{
+Овес
+}
+
+STRING 37
+// Units: h009 (Овес), Tip (Tooltip - Basic)
+{
+Посадить семена овеса
+}
+
+STRING 38
+// Units: h009 (Овес), Ubertip (Tooltip - Extended)
+{
+Сажает семена овса. Время роста:30 сек.
+}
+
+STRING 39
+// Units: h00A (Огурцы), Name (Name)
+{
+Огурцы
+}
+
+STRING 40
+// Units: h00A (Огурцы), Tip (Tooltip - Basic)
+{
+Посадить семена огурцов
+}
+
+STRING 41
+// Units: h00A (Огурцы), Ubertip (Tooltip - Extended)
+{
+Сажает семена огурцов. Время роста:55 сек.
+}
+
+STRING 42
+// Units: h00B (Подсолнух), Name (Name)
+{
+Подсолнух
+}
+
+STRING 43
+// Units: h00B (Подсолнух), Tip (Tooltip - Basic)
+{
+Посадить семена подсолнуха
+}
+
+STRING 44
+// Units: h00B (Подсолнух), Ubertip (Tooltip - Extended)
+{
+Сажает семена подсолхнуха. Время роста:35 сек.
+}
+
+STRING 45
+// Units: h00C (Просо), Name (Name)
+{
+Просо
+}
+
+STRING 46
+// Units: h00C (Просо), Tip (Tooltip - Basic)
+{
+Посадить семена просо
+}
+
+STRING 47
+// Units: h00C (Просо), Ubertip (Tooltip - Extended)
+{
+Сажает семена просо. Время роста:25 сек.
+}
+
+STRING 48
+// Units: h00C (Просо), EditorSuffix (Name - Editor Suffix)
+{
+(не имеет иконки)
+}
+
+STRING 49
+// Units: h00D (Редиска), Name (Name)
+{
+Редиска
+}
+
+STRING 50
+// Units: h00D (Редиска), Tip (Tooltip - Basic)
+{
+Посадить семена редиски
+}
+
+STRING 51
+// Units: h00D (Редиска), Ubertip (Tooltip - Extended)
+{
+Сажает семена редиски. Время роста:35 сек.
+}
+
+STRING 52
+// Units: h005 (Кукуруза), Ubertip (Tooltip - Extended)
+{
+Сажает семена кукурузы. Время роста: 60 сек.
+}
+
+STRING 53
+// Units: h00E (Редька), Name (Name)
+{
+Редька
+}
+
+STRING 54
+// Units: h00E (Редька), Tip (Tooltip - Basic)
+{
+Посадить семена редьки
+}
+
+STRING 55
+// Units: h00E (Редька), Ubertip (Tooltip - Extended)
+{
+Сажает семена редьки. Время роста:35 сек.
+}
+
+STRING 56
+// Units: h00F (Репа), Name (Name)
+{
+Репа
+}
+
+STRING 57
+// Units: h00F (Репа), Tip (Tooltip - Basic)
+{
+Посадить семена репы
+}
+
+STRING 58
+// Units: h00F (Репа), Ubertip (Tooltip - Extended)
+{
+Сажает семена репы. Время роста:65 сек.
+}
+
+STRING 59
+// Units: h00G (Рис), Name (Name)
+{
+Рис
+}
+
+STRING 60
+// Units: h00G (Рис), Tip (Tooltip - Basic)
+{
+Посадить семена риса
+}
+
+STRING 61
+// Units: h00G (Рис), Ubertip (Tooltip - Extended)
+{
+Сажает семена риса. Время роста: 60 сек.
+}
+
+STRING 62
+// Units: h00G (Рис), EditorSuffix (Name - Editor Suffix)
+{
+(не имеет иконки)
+}
+
+STRING 63
+// Units: h00H (Рожь), Name (Name)
+{
+Рожь
+}
+
+STRING 64
+// Units: h00H (Рожь), Tip (Tooltip - Basic)
+{
+Посадить семена ржи
+}
+
+STRING 65
+// Units: h00H (Рожь), Ubertip (Tooltip - Extended)
+{
+Сажает семена ржи. Время роста:35 сек.
+}
+
+STRING 66
+// Units: h00I (Свекла), Name (Name)
+{
+Свекла
+}
+
+STRING 67
+// Units: h00I (Свекла), Tip (Tooltip - Basic)
+{
+Посадить семена свеклы
+}
+
+STRING 68
+// Units: h00I (Свекла), Ubertip (Tooltip - Extended)
+{
+Сажает семена свеклы. Время роста:35 сек.
+}
+
+STRING 69
+// Units: h00J (Сорго), Name (Name)
+{
+Сорго
+}
+
+STRING 70
+// Units: h00J (Сорго), Tip (Tooltip - Basic)
+{
+Посадить семена сорго
+}
+
+STRING 71
+// Units: h00J (Сорго), Ubertip (Tooltip - Extended)
+{
+Сажает семена сорго. Время роста:35 сек.
+}
+

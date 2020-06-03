@@ -8,6 +8,7 @@ function CreateUnitsForPlayer0()
     local t
     local life
     u = BlzCreateUnitWithSkin(p, FourCC("hpea"), -222.9, -2511.6, 312.230, FourCC("hpea"))
+    u = BlzCreateUnitWithSkin(p, FourCC("hpea"), -407.2, 22.0, 189.959, FourCC("hpea"))
 end
 
 function CreatePlayerBuildings()
